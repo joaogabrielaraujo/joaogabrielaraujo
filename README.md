@@ -1,16 +1,40 @@
-## Olá!Eu sou João Gabriel
+<!--
+PALETA DE CORES USADA:
+-> Rosa ligh: ffb6c1
+-> Rosa BB: FF69B4
+-> Rosa Pink: FF1493
+-->
+
+ <!-- Code original 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div> -->
+
+<!-- ### Olá! Me chamo Joao Gabriel 🌹 -->
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33CEFF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+João+Gabriel+Araújo+🌹;SEJA+BEM-VINDO(A)+AO+MEU+PERFIL!+:%29)](https:git.io/typing-svg)
+
+- 🌱 Estudante do Curso de Engenharia da Computação (UEFS)!
+
+<!-- Cards of most languages -->
+&nbsp;
+<p align="center">
+    <a href="https://github.com/joaogabrielaraujo">
+        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaogabrielaraujo&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=33CEFF&text_color=ffffff&icon_color=33CEFF&hide_border=true/" />
+    </a>
+    <a href="https://github.com/joaogabrielaraujo">
+        <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielaraujo&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=33CEFF&text_color=ffffff&icon_color=33CEFF&hide_border=true/" />
+    </a>
+</p>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joaogabrielaraujo&bg_color=0d1117&color=33CEFF&line=33CEFF&point=33CEFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joaogabrielaraujo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <div align="center">
-  <a href="https://github.com/joaogabrielaraujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogabrielaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="150em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielaraujo&layout=compact&langs_count=7&theme=dracula">
-
-</div>
-
-<div>
-  <a href="https://instagram.com/joao.araujo25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joaogaraujo@ecomp.uefs.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://www.linkedin.com/in/luis-gomes-8462b321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
- 
-</div>
+<a href="https://www.instagram.com/joao.araujo25/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
