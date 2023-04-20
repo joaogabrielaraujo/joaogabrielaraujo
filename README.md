@@ -7,8 +7,8 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielaraujo&layout=compact&langs_count=7&theme=tokyonight">
 </div>
   <div style="display: inline_block"><br>
-  <img align="right" alt="sakuta" height="150" style="border-radius:50px;" 
-  src="https://tenor.com/pt-BR/view/sakuta-bunnygirlsenpai-anime-gif-17979507">
+  <img align="right" alt="peralta" height="150" style="border-radius:50px;" 
+  src="https://tenor.com/pt-BR/view/noice-brooklyn-ninenine-b99-smile-gif-11928987">
 </div>
 
 <div>
