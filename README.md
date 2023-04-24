@@ -30,7 +30,7 @@ PALETA DE CORES USADA:
 </p>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joaogabrielaraujo&bg_color=0d1117&color=33CEFF&line=33CEFF&point=33CEFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joaogabrielaraujo&bg_color=0d1117&color=33CEFF&line=33CEFF&point=33CEFF&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joaogabrielaraujo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
