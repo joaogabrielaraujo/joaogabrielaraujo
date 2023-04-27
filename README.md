@@ -25,7 +25,7 @@ PALETA DE CORES USADA:
         <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaogabrielaraujo&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=33CEFF&text_color=ffffff&icon_color=33CEFF&hide_border=true/" />
     </a>
     <a href="https://github.com/joaogabrielaraujo">
-        <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielaraujo&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=33CEFF&text_color=ffffff&icon_color=33CEFF&hide_border=true/" />
+        <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielaraujo&layout=compact&count_private=false&langs_count=10&card_width=445&bg_color=0d1117&title_color=33CEFF&text_color=ffffff&icon_color=33CEFF&hide_border=true/" />
     </a>
 </p>
 
